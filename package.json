@@ -1,0 +1,19 @@
+{
+  "name": "scotch_restful_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Sarah Silva <ssarrraahh@hotmail.com> (https://github.com/sarahsilva1)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongodb-uri": "^0.9.7",
+    "mongoose": "^4.6.6"
+  }
+}
